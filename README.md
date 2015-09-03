@@ -2,7 +2,7 @@
 
 ## Your first Pull Request
 
-Hooray! A pull request! But what's even a `Pull Request`? "Creating a pull request" is a fancy way of saying "suggesting a change". Pull Requests are what fuels the collaboration on GitHub. When you create a `Pull Request` (often abbreviated as `PR`), you've made an edit to something, and you're requesting that the owner of what you're editing reviews your change.
+Hooray! A pull request! But what's even a `Pull Request`? "Creating a pull request" is a fancy way of saying "suggesting a change". Pull Requests are what fuels thecollaboration at GitHub. When you create a `Pull Request`, you've made an edit to something, and you're requesting that the owner of what you're editing reviews your change.
 
 Say someone has published a list of great design books on GitHub:
 
@@ -26,9 +26,9 @@ You then create a pull request—a request to the owner of the list to "pull in"
 
 ## Your challenge
 
-We have a list of Code Pub Hackers who've created a Pull Request with the help of this guide: http://thecodepub.github.io. Your challenge is to add yourself to that list. Here's how you do it:
+We have a list of Code Pub Hackers who've created a Pull Request with the help of this guide: http://thecodepub.github.io/hackers. Your challenge is to add yourself to that list. Ready? Great! Here's how you do it:
 
-### Step 1: Cloning the repository
+### Step 1: Clone the repository
 
 1. Create a GitHub account
 * Head over to https://desktop.github.com and download the GitHub app
@@ -46,3 +46,5 @@ We have a list of Code Pub Hackers who've created a Pull Request with the help o
 * Save the file
 
 ### Step 3: Creating a Pull Request 
+
+…
