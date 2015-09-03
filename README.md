@@ -1,4 +1,4 @@
-# Brief introduction to working with GitHub
+# Introduction to GitHub
 
 ## Your first Pull Request
 
