@@ -2,7 +2,7 @@
 
 ## Your first Pull Request
 
-Hooray! A pull request! But what's even a `Pull Request`? "Creating a pull request" is a fancy way of saying "suggesting a change". Pull Requests are what fuels thecollaboration at GitHub. When you create a `Pull Request`, you've made an edit to something, and you're requesting that the owner of what you're editing reviews your change.
+Hooray! A pull request! But what's even a `Pull Request`? "Creating a pull request" is a fancy way of saying "suggesting a change". Pull Requests are what fuels the collaboration at GitHub. When you create a `Pull Request`, you've made an edit to something, and you're requesting that the owner of what you're editing reviews your change.
 
 Say someone has published a list of great design books on GitHub:
 
