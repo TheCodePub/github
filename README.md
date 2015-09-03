@@ -68,7 +68,7 @@ Since you're not the maintainer of this repository, you won't be able to merge t
 What did we do here?
 
 * We copied a project on GitHub to our own computer. This is referred to as **cloning a repository**.
-* We made a change, and saved that change to a new version of the project. In git, this is referred to as *committing** and **creating a branch**.
+* We made a change, and saved that change to a new version of the project. In git, this is referred to as **committing** and **creating a branch**.
 * We suggested a change. On GitHub, this is referred to as **creating a pull request**.
 
 When working with Git and GItHub there's a lot of complicated words used to describe simple things. Don't worry if you can't remember them all—it'll stick eventually.
