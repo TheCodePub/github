@@ -1,6 +1,6 @@
 # Introduction to GitHub
 
-What's GitHub? If you've googled "GitHub", you might have seen this summary by Wikipedia:
+What's GitHub? If you've googled "GitHub", you might have seen this summary on Wikipedia:
 
 > GitHub is a Web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
 
