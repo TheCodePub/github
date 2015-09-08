@@ -48,13 +48,14 @@ We have a list for Code Pub Hackers who've created a Pull Request with the help 
 
 
 1. In GitHub for Desktop, open the folder of the newly cloned repository by clicking on `Repository -> Open in Finder` (or press CMD+Shift+F)
+* We need an image for the list, so let's start by adding it to the project. Find the folder `/images/hackers/`. Add an image to it (of yourself or something else), and make it 260 px wide and 260 px tall. Copy the filename of the image—we'll need it soon.
 * Locate and open the folder called `_hackers`
 * You'll see files ending in `.md`. Make a duplicate out of one of them (anyone), and rename the file to include your own name, like so: `[your-name].md`.
 * Open your newly duplicated file with a text editor. If you haven't installed a text editor, try [Sublime](http://sublimetext.com).
-* Change the file to include your full name, your twitter if you have any, and today's date.
+* Change the file to include your name, and your twitter username if you have any. On the row that says `image:`, paste in the filename of your newly added image.
 * Save the file.
 
-### Step 3: Creating a Pull Request 
+### Step 3: Creating a Pull Request
 
 1. Go back to *GitHub for Desktop*
 * You should now see your uncommited changes listed in the app. If you can't see them, look for the button `1 uncommited change` in the top bar of the app.
