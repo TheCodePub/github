@@ -61,6 +61,7 @@ We have a list for Code Pub Hackers who've created a Pull Request with the help 
 * You should now see your uncommited changes listed in the app. If you can't see them, look for the button `1 uncommited change` in the top bar of the app.
 * Create a new branch. Branches are git lingo for `versions`. This is your version of this website where you've added yourself to the list. In the top left of the app, press the "Add a branch" button. Name the branch something descriptive of your change. If your name is "Unn", the branch name could be `add-unn-to-hackers`.
 * With the branch created, save your changes. When you're working with git, this is called "committing". To the left, find the field that says "Summary". Add a description of your change, and press "Commit to…" at the very bottom of the window.
+* Become a member of the org. To create a pull request, you need to become a member of the TheCodePub org. Come up to Unn or Tobias and ask to be added!
 * Hooray! You've made a change and saved it. In the top right corner, look for a button called "Pull Request". Press it, and a pane will fold out from the right. Press "Create Pull Request" to publish your changes to GitHub.
 
 ### Step 4: Merging
