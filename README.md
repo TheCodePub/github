@@ -84,7 +84,7 @@ What did we do here?
 
 When working with Git and GitHub there's a lot of complicated words used to describe simple things. Don't worry if you can't remember them all—they're not that important, and they'll stick eventually.
 
-### Next steps
+## Next steps
 
 - Read about how GitHub recommends that you work with GitHub in [GitHub Flow](https://guides.github.com/introduction/flow/).
 - We've used [GitHub Pages](https://pages.github.com) to publish the site in this tutorial. [Read more about creating your own GitHub Page](https://pages.github.com).
