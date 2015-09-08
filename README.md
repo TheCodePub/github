@@ -4,7 +4,7 @@ What's GitHub? If you've googled "GitHub", you might have seen this summary by W
 
 > GitHub is a Web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
 
-Which sounds really boring and technical and complicated. Let's zoom out from the technology: in a gist, GitHub is a tool to collaborate with people. If you're building something with other people, you can use GitHub to host your files, plan ahead, track issues, and make sure you don't do conflicting work. That collaboration is primarily done through *issues* and *pull requests*, and the best way to understand GitHub is to get our hands dirty and create a pull request.
+Which sounds really boring and technical and complicated. Blergh. Let's zoom out from the technology and focus on what you can do with GitHub: in a gist, GitHub is a tool to collaborate with people. If you're building something with other people, you can use GitHub to host your files, plan ahead, track issues, and make sure you don't do conflicting work. That collaboration is primarily done through *issues* and *pull requests*, and the best way to understand GitHub is to get our hands dirty and create a pull request.
 
 ## Your first Pull Request
 
