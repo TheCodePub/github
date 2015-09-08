@@ -30,7 +30,7 @@ You notice a mistake in the last book title: it's actually "Don't Make Me **Thin
 
 You then create a pull request—a request to the owner of the list to "pull in" your changes. They can accept your change, whereupon it's saved into their version, or they can reject your suggestion. Every Pull Request also comes with a discussion thread where you can talk about why the change is a good (or bad) idea, and if there are any additional changes you need to make for the owner to accept it. 
 
-[Here's how a pull request created to fix the spelling mistake in the example above would look like](https://github.com/TheCodePub/github/pull/4).
+[Here's how a pull request created to fix the spelling mistake in the example above would look like](https://github.com/TheCodePub/github/pull/4). Click around to see what's going on: in addition to the discussion, there's a tab for commits, and a tab for files. Don't worry if you don't understand what all of this means yet: we'll get back to it soon.
 
 ## Your challenge
 
@@ -87,5 +87,5 @@ When working with Git and GitHub there's a lot of complicated words used to desc
 
 - Read about how GitHub recommends that you work with GitHub in [GitHub Flow](https://guides.github.com/introduction/flow/).
 - We've used [GitHub Pages](https://pages.github.com) to publish the site in this tutorial. [Read more about creating your own GitHub Page](https://pages.github.com).
-- GitHub Desktop is a great way of working with git and GitHub, but many choose to work with the terminal. To learn about how to use GitHub with a terminal, check out [git-it](http://jlord.us/git-it/) by @jlord.
+- GitHub Desktop is a great way of working with git and GitHub, but many choose to work with the terminal instead. To learn about how to use GitHub with a terminal, check out [git-it](http://jlord.us/git-it/) by @jlord.
 - Read more about [Git](https://git-scm.com).
